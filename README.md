@@ -1,6 +1,5 @@
 # Tic Tac Toe ML
-Train simple ML models to play Tic Tac Toe game. Currently supported:
-* Reinforcement Learning
+Train simple ML models to play Tic Tac Toe game using Reinforcement Learning.
 
 ### Installation
 1. Create and activate virtual environment
